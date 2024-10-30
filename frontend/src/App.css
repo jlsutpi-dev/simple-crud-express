@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+  box-sizing: border-box;
+  /* color: #ecf39e; */
+  font-family: "Noto Sans", sans-serif;
+}
+
+.sidebar-item {
+  text-decoration: none;
+  width: 100%;
+  text-align: center;
+  color: black;
+  padding: 10px 0;
+}
+.sidebar-item:hover {
+  background-color: #eef4ed;
+}
+.sidebar {
+  width: 300px;
+  background-color: #8da9c4;
+  height: 92vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-card {
+  display: flex;
+  flex-direction: column;
+  gap: 5;
+  height: 180px;
+  background-color: #8da9c4;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-card:hover {
+  transform: scale(1.05);
+}
+
+.menu-button {
+  background-color: #008cba; /* Blue background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding for the button */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 16px; /* Font size */
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+.menu-button:hover {
+  background-color: #005f73; /* Darker blue on hover */
+}
+.menu-update-div {
+  background-color: #8da9c4;
+  -webkit-box-shadow: 10px 20px 42px 0px rgba(19, 49, 92, 1);
+  -moz-box-shadow: 10px 20px 42px 0px rgba(19, 49, 92, 1);
+  box-shadow: 10px 20px 42px 0px rgba(19, 49, 92, 1);
+}

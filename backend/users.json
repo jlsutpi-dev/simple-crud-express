@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jl Sut Pi",
+    "email": "nawram@gmail.com",
+    "password": "$2a$10$jnJndBfI1Gz6HVdizo3VheErUIpmo0YRrsoP7vN4exvLuNEVDq1xG",
+    "id": 1
+  },
+  {
+    "name": "hi",
+    "email": "hi@gmail.com",
+    "password": "$2a$10$XV/FQN9H/m4a3i2nqydXnudfoNMvCqB7CXwRXSvS.qYCXqWHPXOGS",
+    "id": 2
+  },
+  {
+    "name": "Nang Sian Sut",
+    "email": "sutpi070@gmail.com",
+    "password": "$2a$10$jkMaQk/qWA4XQPVD7d6M3uiFqmwi7JJQxKK2ZJFZ3pDL5dKKw.obG",
+    "id": 3
+  },
+  {
+    "name": "sut pi",
+    "email": "pijlsut@gmail.com",
+    "password": "$2a$10$hoqxQYje7FDS8Rw4FHogEO69zwNbiWfVxZqLAIAqqLcpBuTK38A3W",
+    "id": 4
+  }
+]
